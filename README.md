@@ -32,3 +32,5 @@ file list:
    * apply the pre-processor stage on the test data.
    * predicts the flight delays and reasons.
    * calculate the L2 and L0-1 losses.
+   
+   © 2020 Tzvi Cohen, Yahav Bar, Shaked Heiman.
