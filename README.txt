@@ -30,4 +30,7 @@ file list:
    * apply the pre-processor stage on the test data
    * predicts the flight delays and reasons
    * calculate the L2 and L0-1 losses
-© 2020 GitHub, Inc.
+   
+3. all_weather_data directory and csv file are missing and are optional for the model. One may add weather data to improve the model.
+
+Tzvi Cohen, Yahav Bar, Shaked Heiman.
