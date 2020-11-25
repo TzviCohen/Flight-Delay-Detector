@@ -6,7 +6,7 @@ file list:
 2. model:
   contains the following classes:
 
-   FlightModelPreProcessor - contains statics methods to pre-processing the data.
+   FlightModelPreProcessor - contains static methods to pre-processing the data.
    * fixes the flightDate entries and format it to datetime object
    * merges the weather data with the main data
    * adds the USA holiday feature to the data
